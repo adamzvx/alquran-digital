@@ -36,7 +36,8 @@
       });
 
       $('#tblTentang').click(function(){
-
+        //var loading = "<i class='fa fa-spin fa-refresh'></i>";
+  
       });
 
     });
